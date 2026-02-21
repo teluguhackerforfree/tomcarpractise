@@ -132,8 +132,8 @@
     </div>
 
     <div class="buttons">
-      <button class="btn btn-play">▶ Start Deployment</button>
-      <button class="btn btn-info">ℹ View Profile</button>
+      <button class="btn btn-play"> Start Deployment</button>
+      <button class="btn btn-info"> View Profile</button>
     </div>
   </div>
 
