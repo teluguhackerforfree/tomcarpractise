@@ -119,7 +119,7 @@
 
     <h2>
       Hi Team! We are implementing CI/CD workflow using GitHub Server2.  
-      Continuous Integration • Continuous Deployment • Zero Downtime 🚀
+      Continuous Integration . Continuous Deployment . Zero Downtime.
     </h2>
 
     <div class="profile">
