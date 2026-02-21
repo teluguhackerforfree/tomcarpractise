@@ -112,7 +112,7 @@
 
 <body>
 
-  <div class="logo">GITHUB CI/CD</div>
+  <div class="logo">Wecome to World of Devops</div>
 
   <div class="hero">
     <h1>SERVER2 DEPLOYMENT</h1>
